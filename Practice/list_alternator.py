@@ -11,4 +11,3 @@ for (i),val in enumerate(list_1):
             result1.append(val*k)
 print("Even numbers:", result)
 print("Odd numbers:", result1)
-            
